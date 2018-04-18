@@ -1,0 +1,40 @@
+#FILE TRANSFERT
+
+-version 1.0 22/01/2017 :
+    *Transfert de fichier
+
+-version 1.1 --
+    *sus
+    *Ergonomie ameliorée
+
+-version 1.2 --
+    *sus
+    *Ergonomie ameliorée +
+    *Transfert de fichier inter-plateformes
+
+-version 2.0 --
+    *sus
+    *Transfert de dossiers
+
+-version 2.1 --
+    *sus
+    *Ergonomie améliorée
+    *gerer les exceptions
+
+-version 2.2 --
+    *sus
+    *Ergonomie améliorée +
+
+-version 3.0 --
+    *sus
+    *Wlan Scan
+
+-version 3.1 --
+    *sus
+    *Ergonomie améliorée
+
+-version 3.2 --
+    *sus
+    *Implantation sur le menu contextuel
+    *Installateur windows et Linux
+    *Fonctionnement en service
